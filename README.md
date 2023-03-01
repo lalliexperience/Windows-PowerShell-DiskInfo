@@ -2,7 +2,7 @@
 </h1>
 
 <h3 align="center">
-Get machine name and disk infor from PowerShell command line
+Get machine name and disk info from PowerShell command line
 </h3>
 
 ---
