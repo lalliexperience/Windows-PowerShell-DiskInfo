@@ -10,5 +10,5 @@ Get machine name and disk infor from PowerShell command line
 <h2 align="center">Output Screenshot</h2>
 
 
-![Windows-PowerShell-DiskInfo](https://github.com/lalliexperience/Windows-PowerShell-DiskInfo/screenshots/screenshot.PNG?raw=true)
+![Windows-PowerShell-DiskInfo](https://github.com/lalliexperience/Windows-PowerShell-DiskInfo/blob/main/screenshots/screenshot.PNG?raw=true)
 
